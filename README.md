@@ -9,13 +9,13 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 👨‍💻 All of my projects are available at [https://arianborzoei.com](https://arianborzoei.com)
+- 👨‍💻 All of my projects are available at [arianborzoei.com](https://arianborzoei.com)
 
 - 💬 Ask me about **How My Application Work 😂**
 
 - 📫 How to reach me **mail@arianborozei.com**
 
-- 📄 Know about my experiences [https://arianborzoei.com/get-resume](https://arianborzoei.com/get-resume)
+- 📄 Know about my experiences [arianborzoei.com/get-resume](https://arianborzoei.com/get-resume)
 
 - ⚡ Fun fact **I Dont Have international debit card 😅**
 
