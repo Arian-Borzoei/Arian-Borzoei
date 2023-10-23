@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arian Borzoei</h1>
 <h3 align="center">Semi Mobile Developer From IRAN 📌</h3>
 
-<img align="right" alt="coding" width="400" style="" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F567523990538356835%2F&psig=AOvVaw0-1VBSxO5w98QU5a_D0vxK&ust=1698074702271000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCOjLjK_7iYIDFQAAAAAdAAAAABAE">
+<img align="right" alt="Coding" width="400" style="" src="https://media.discordapp.net/attachments/923895555803975752/1165704952438599680/Github.gif?ex=6547d256&is=65355d56&hm=c1ea4808d72d1c1208911681a1aba1d5a3d86399852b62c4af7d8bf8a00e2e6c&">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arian-borzoei&label=Profile%20views&color=0e75b6&style=flat" alt="arian-borzoei" /> </p>
 
