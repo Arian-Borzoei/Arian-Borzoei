@@ -1,5 +1,3 @@
-![Logo](https://github.com/Arian-Borzoei/Arian-Borzoei/blob/main/Github%20Banner.png)
-
 <h1 align="center">Hi 👋, I'm Arian Borzoei</h1>
 <h3 align="center">Semi Mobile Developer From IRAN 📌</h3>
 
@@ -21,10 +19,18 @@
 
 - ⚡ Fun fact **I Dont Have international debit card 😅**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">My Social Media:</h3>
 <p align="left">
-<a href="https://instagram.com/arianerial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arianerial" height="30" width="40" /></a> <a href="https://www.youtube.com/c/iamarianerial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="iamarianerial" height="30" width="40" /></a> <a href="https://linkedin.com/in/arian-borzoei-b90454229" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arian-borzoei-b90454229" height="30" width="40" /></a> </p>
-
+    <a href="https://instagram.com/arianerial">
+        <img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
+    </a>
+    <a href="https://www.youtube.com/channel/UC38Dfgb6GNgGq_UC_4-K4MQ">
+        <img alt="YouTube" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" />
+    </a>
+    <a href="https://t.me/i_arian_erial">
+        <img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+    </a>
+</p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 
