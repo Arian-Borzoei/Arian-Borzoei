@@ -1,41 +1,77 @@
-<h1 align="center">Hi 👋, I'm Arian Borzoei</h1>
-<h3 align="center">Semi Mobile Developer From IRAN 📌</h3>
-
-<img align="right" alt="Coding" width="400" style="" src="https://media.discordapp.net/attachments/923895555803975752/1165704952438599680/Github.gif?ex=6547d256&is=65355d56&hm=c1ea4808d72d1c1208911681a1aba1d5a3d86399852b62c4af7d8bf8a00e2e6c&">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arian-borzoei&label=Profile%20views&color=0e75b6&style=flat" alt="arian-borzoei" /> </p>
 
-- 🔭 I’m currently working on [ARTICODE](https://articode.ir)
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Arian+Borzoei!;" />
+</h1>
 
-- 🌱 I’m currently learning **Flutter📱**
+<h3 align="center">A Semi Mobile App Developer From Iran :)</h3>
 
-- 👨‍💻 All of my projects are available at [My Website](https://arianborzoei.com)
+<br/>
 
-- 💬 Ask me about **How My Application Work 😂**
+<div align="center">
+ 
+ 🔭 I’m currently working on **[ARTICODE🚀](https://articode.ir)**
+ 
+ 🌱 I’m currently learning **Flutter📱**
 
-- 📫 How to reach me **mail@arianborozei.com**
+ 💬 Ask me about **How My Application Work 😂**
 
-- 📄 Know about my experiences [Download My Resume](https://arianborzoei.com/get-resume)
+ ⚡ You Can Visit My Portfolio in **[My Website](https://arianborzoei.com)**
+ 
+ </div>
+ 
+<div align="center"> 
+  <a href="mailto:mail@arianborzoei.com">
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://instagram.com/arianerial" target="_blank">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://t.me/i_arian_erial">
+    <img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="https://www.youtube.com/channel/UC38Dfgb6GNgGq_UC_4-K4MQ" target="_blank">
+    <img alt="YouTube" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
+</div>
 
-<h3 align="left">My Social Media:</h3>
-<p align="left">
-    <a href="https://instagram.com/arianerial">
-        <img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
-    </a>
-    <a href="https://t.me/i_arian_erial">
-        <img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-    </a>
-    <a href="https://www.youtube.com/channel/UC38Dfgb6GNgGq_UC_4-K4MQ">
-        <img alt="YouTube" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" />
-    </a>
-</p>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+ <hr/>
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+<img src="https://skillicons.dev/icons?i=photoshop,illustrator,xd" />
 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
+    
+<img src="https://skillicons.dev/icons?i=html,css,dart,flutter,vscode,androidstudio,git" /><br>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arian-borzoei&show_icons=true&locale=en&layout=compact" alt="arian-borzoei" /></p>
+<br/>
+<hr/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arian-borzoei&show_icons=true&locale=en" alt="arian-borzoei" /></p>
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
 
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arian-borzoei&" alt="arian-borzoei" /></p> -->
+<hr/>
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arian-borzoei&show_icons=true&locale=en&layout=compact" alt="arian-borzoei" /></p>
+
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arian-borzoei&show_icons=true&locale=en" alt="arian-borzoei" /></p>
+</div>
+
+<br/><br/>
+<hr/>
+
+<h3 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
+</h3>
+
+<br/>
