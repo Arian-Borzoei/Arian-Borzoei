@@ -24,11 +24,11 @@
     <a href="https://instagram.com/arianerial">
         <img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
     </a>
-    <a href="https://www.youtube.com/channel/UC38Dfgb6GNgGq_UC_4-K4MQ">
-        <img alt="YouTube" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" />
-    </a>
     <a href="https://t.me/i_arian_erial">
         <img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+    </a>
+    <a href="https://www.youtube.com/channel/UC38Dfgb6GNgGq_UC_4-K4MQ">
+        <img alt="YouTube" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" />
     </a>
 </p>
 <h3 align="left">Languages and Tools:</h3>
