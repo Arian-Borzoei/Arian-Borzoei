@@ -17,8 +17,6 @@
 
 - 📄 Know about my experiences [Download My Resume](https://arianborzoei.com/get-resume)
 
-- ⚡ Fun fact **I Dont Have international debit card 😅**
-
 <h3 align="left">My Social Media:</h3>
 <p align="left">
     <a href="https://instagram.com/arianerial">
